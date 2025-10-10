@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Alexey+Iumatov+👋;Golang+%26+Python+Backend+Developer;Building+Scalable+Microservices" alt="Typing SVG" />
-</div>
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=A9FEF7&center=true&vCenter=true&width=940&lines=Hey+there!+I'm+Alexey+Iumatov+%F0%9F%91%8B;Golang+%26+Python+Backend+Developer;Building+Scalable+Microservices" alt="Typing SVG" /></a>
 <div align="center">
   
   [![Telegram](https://img.shields.io/badge/Telegram-@monikre-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/monikre)
